@@ -234,7 +234,7 @@ void shrink(vector<int> &v){
 } //出函数，tmp脱离作用域自然死亡
 ```
 
-**-想要删除vector中全部值为val的元素 -- 用remove。**用法：
+**-想要删除vector中全部值为val的元素 -- 用remove**  
 
 ```c++
 vec.erase(remove(vec.begin(),vec.end(),val) , vec.end() );
