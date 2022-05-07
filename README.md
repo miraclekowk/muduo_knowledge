@@ -12,7 +12,7 @@
 
 1. 写一个复数类或
 
-   [大整数类]: https://github.com/miraclekowk/muduo_knowledge/blob/main/%E5%A4%A7%E6%95%B4%E6%95%B0%E7%B1%BB.md
+   [大整数类]: 大整数类.md
 
    ，实现基本加减乘法运算，熟悉封装与数据抽象。
 
